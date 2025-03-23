@@ -1,0 +1,22 @@
+{
+  "frontKeybind": {
+    "keyBinds": [
+      0
+    ]
+  },
+  "frontKeybindMode": false,
+  "backKeybind": {
+    "keyBinds": [
+      45
+    ]
+  },
+  "backKeybindMode": false,
+  "backToFirst": true,
+  "animation": false,
+  "speed": 1.0,
+  "changeFOV": false,
+  "backFOV": 100,
+  "frontFOV": 100,
+  "enabled": true,
+  "canToggle": true
+}

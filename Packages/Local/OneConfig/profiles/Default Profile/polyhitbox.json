@@ -1,0 +1,1145 @@
+{
+  "toggleKeyBind": {
+    "keyBinds": [
+      61,
+      48
+    ]
+  },
+  "retainToggleState": true,
+  "toggleState": false,
+  "configs": {
+    "DEFAULT": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "FRAMES": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "ITEM": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "MOB": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "PROJECTILE": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "ARMOR_STAND": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "WITHER_SKULL": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "PLAYER": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "MONSTER": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "XP": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "FIREBALL": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "ARROW": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    },
+    "SELF": {
+      "overwriteDefault": false,
+      "showCondition": 1,
+      "lineStyle": 0,
+      "dashFactor": 10,
+      "accurate": true,
+      "hoverColor": false,
+      "showSide": false,
+      "sideColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "sideHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          63
+        ],
+        "dataBit": -1
+      },
+      "showOutline": true,
+      "outlineColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineHoverColor": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "outlineThickness": 2.0,
+      "showEyeHeight": true,
+      "eyeHeightColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightHoverColor": {
+        "hsba": [
+          0,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "eyeHeightThickness": 2.0,
+      "showViewRay": true,
+      "viewRayColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayHoverColor": {
+        "hsba": [
+          240,
+          100,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "viewRayThickness": 2.0
+    }
+  },
+  "enabled": true,
+  "canToggle": true
+}

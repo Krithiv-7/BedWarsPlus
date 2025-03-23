@@ -1,0 +1,74 @@
+{
+  "mode": false,
+  "newCrosshairs": [
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAEUlEQVR42mNgGAWjYBQMIgAAA5MAAecADfkAAAAASUVORK5CYII\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    }
+  ],
+  "penColor": {
+    "hsba": [
+      0,
+      0,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "mirror": 0,
+  "canvaSize": 15,
+  "newCurrentCrosshair": {
+    "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAEUlEQVR42mNgGAWjYBQMIgAAA5MAAecADfkAAAAASUVORK5CYII\u003d",
+    "scale": 100,
+    "rotation": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "centered": false
+  },
+  "renderConfig": {
+    "dynamicColor": false,
+    "invertColor": true,
+    "dynamicOpacity": 100,
+    "hostile": false,
+    "hostileColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "passive": false,
+    "passiveColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "player": false,
+    "playerColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "showInDebug": false,
+    "showInGuis": true,
+    "showInThirdPerson": true,
+    "showInSpectator": false,
+    "didPatcherMigration": true
+  },
+  "enabled": true,
+  "canToggle": true
+}

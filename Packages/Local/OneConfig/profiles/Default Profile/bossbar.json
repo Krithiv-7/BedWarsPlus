@@ -1,0 +1,73 @@
+{
+  "hud": {
+    "renderText": true,
+    "renderHealth": true,
+    "smoothHealth": true,
+    "lerpSpeed": 100.0,
+    "barPosition": 50.0,
+    "brackets": false,
+    "bracketsColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "title": "",
+    "titleLocation": 0,
+    "color": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "textType": 1,
+    "background": false,
+    "rounded": false,
+    "border": false,
+    "bgColor": {
+      "hsba": [
+        0,
+        0,
+        0,
+        120
+      ],
+      "dataBit": -1
+    },
+    "borderColor": {
+      "hsba": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "dataBit": -1
+    },
+    "cornerRadius": 0.0,
+    "borderSize": 2.0,
+    "defaultPaddingX": 0.0,
+    "paddingX": 0.0,
+    "defaultPaddingY": 0.0,
+    "paddingY": 0.0,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "1",
+      "x": 0.0,
+      "y": 2.0
+    },
+    "scale": 1.0,
+    "positionAlignment": 0,
+    "showInChat": true,
+    "showInDebug": true,
+    "showInGuis": true
+  },
+  "enabled": true,
+  "canToggle": true
+}

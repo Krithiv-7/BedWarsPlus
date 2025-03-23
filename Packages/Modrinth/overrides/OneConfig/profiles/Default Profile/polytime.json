@@ -1,0 +1,10 @@
+{
+  "credits": false,
+  "irlTime": true,
+  "irlLunarPhases": false,
+  "time": 12.0,
+  "fastTime": false,
+  "fastSpeed": 1.0,
+  "enabled": true,
+  "canToggle": true
+}

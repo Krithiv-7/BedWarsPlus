@@ -1,0 +1,67 @@
+{
+  "hud": {
+    "showIron": true,
+    "showGold": true,
+    "showDiamond": true,
+    "showEmerald": true,
+    "showEnderChest": true,
+    "hideZero": true,
+    "padding": 5,
+    "iconPadding": 5,
+    "type": false,
+    "displayType": false,
+    "alignment": true,
+    "textType": 0,
+    "textColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "background": true,
+    "rounded": false,
+    "border": false,
+    "bgColor": {
+      "hsba": [
+        0,
+        0,
+        0,
+        120
+      ],
+      "dataBit": -1
+    },
+    "borderColor": {
+      "hsba": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "dataBit": -1
+    },
+    "cornerRadius": 2.0,
+    "borderSize": 2.0,
+    "defaultPaddingX": 5.0,
+    "paddingX": 5.0,
+    "defaultPaddingY": 5.0,
+    "paddingY": 5.0,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "8",
+      "x": -400.0,
+      "y": -21.0
+    },
+    "scale": 1.0,
+    "positionAlignment": 0,
+    "showInChat": true,
+    "showInDebug": false,
+    "showInGuis": true
+  },
+  "enabled": false,
+  "canToggle": true
+}

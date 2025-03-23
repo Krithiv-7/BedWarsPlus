@@ -1,0 +1,12 @@
+{
+  "inGameCrashPatch": true,
+  "initCrashPatch": true,
+  "disconnectCrashPatch": true,
+  "ignored": false,
+  "leaveLimit": 3,
+  "crashLimit": 5,
+  "deobfuscateCrashLog": true,
+  "crashLogUploadMethod": 0,
+  "enabled": true,
+  "canToggle": true
+}

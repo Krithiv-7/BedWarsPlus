@@ -1,0 +1,692 @@
+{
+  "settings": {
+    "cleanerParticles": true,
+    "cleanView": false,
+    "staticParticleColor": true,
+    "maxParticleLimit": 4000,
+    "particleNoClip": false,
+    "alwaysCritical": false,
+    "alwaysSharp": false,
+    "checkInvulnerable": false,
+    "hasMigratedPatcher": true,
+    "hasMigratedPatcherPt2CauseImStupid": true,
+    "hasMigratedParticlesEnhanced": false
+  },
+  "particles": {
+    "Heart": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Beacon Effect": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Item Eat / Break": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Happy Villager": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Water Splash": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Critical": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Large Smoke": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Barrier": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Smoke": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Large Explosion": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Entity Death": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Angry Villager": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Witch Spell": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Portal": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Lava Drip": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Flame": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Blocks": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Lava": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Potion": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Depth Suspended": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Instant Potion": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Water Bubble": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Slime": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Sharpness": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Firework Spark": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Liquid": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Redstone": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Snowball": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Footstep": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Water Drip": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Splash Potion": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Note": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Cloud": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Water Wake": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Enchantment": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Mycelium": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    },
+    "Rain Drop": {
+      "active": true,
+      "customColor": false,
+      "colorMode": false,
+      "color": {
+        "hsba": [
+          0,
+          0,
+          100,
+          255
+        ],
+        "dataBit": -1
+      },
+      "fade": true,
+      "fadeStart": 0.5,
+      "size": 1.0,
+      "multiplier": 1.0
+    }
+  },
+  "blockSetting": {
+    "hideDigging": false,
+    "hideRunning": false,
+    "hideMode": true,
+    "fade": true,
+    "fadeStart": 0.5
+  },
+  "enabled": true,
+  "canToggle": true
+}

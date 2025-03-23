@@ -1,0 +1,22 @@
+{
+  "hud": {
+    "healthLink": false,
+    "mountLink": true,
+    "alignment": true,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "7",
+      "x": 50.5,
+      "y": -40.0
+    },
+    "scale": 1.0,
+    "positionAlignment": 0,
+    "showInChat": true,
+    "showInDebug": true,
+    "showInGuis": true
+  },
+  "enabled": true,
+  "canToggle": true
+}

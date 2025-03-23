@@ -1,0 +1,69 @@
+{
+  "hud": {
+    "seconds": true,
+    "brackets": false,
+    "bracketsColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "title": "Playtime",
+    "titleLocation": 0,
+    "color": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "textType": 0,
+    "background": true,
+    "rounded": false,
+    "border": false,
+    "bgColor": {
+      "hsba": [
+        0,
+        0,
+        0,
+        120
+      ],
+      "dataBit": -1
+    },
+    "borderColor": {
+      "hsba": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "dataBit": -1
+    },
+    "cornerRadius": 2.0,
+    "borderSize": 2.0,
+    "defaultPaddingX": 5.0,
+    "paddingX": 5.0,
+    "defaultPaddingY": 5.0,
+    "paddingY": 5.0,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "0",
+      "x": 0.0,
+      "y": 130.0
+    },
+    "scale": 1.0,
+    "positionAlignment": 0,
+    "showInChat": true,
+    "showInDebug": false,
+    "showInGuis": true
+  },
+  "enabled": false,
+  "canToggle": true
+}

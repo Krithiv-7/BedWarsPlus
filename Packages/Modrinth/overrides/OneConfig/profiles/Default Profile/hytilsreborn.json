@@ -1,0 +1,331 @@
+{
+  "autoStart": false,
+  "autocompletePlayCommands": true,
+  "limboPlayCommandHelper": true,
+  "autoQueueInfo": false,
+  "autoQueue": false,
+  "autoQueueDelay": 0,
+  "autoGetGEXP": false,
+  "gexpMode": false,
+  "autoGetWinstreak": false,
+  "notifyMiningFatigue": true,
+  "disableNotifyMiningFatigueSkyblock": true,
+  "autoGG": true,
+  "autoGGSecondMessage": false,
+  "casualAutoGG": true,
+  "antiGG": false,
+  "ggMessage": "gg",
+  "autoGGFirstPhraseDelay": 1.0,
+  "ggMessage2": "Have a good day!",
+  "autoGGSecondPhraseDelay": 1.0,
+  "autoGL": false,
+  "glPhrase": 0,
+  "antiGL": false,
+  "autoFriend": false,
+  "autoPartyWarpConfirm": false,
+  "autoReplyAfk": false,
+  "gameStatusRestyle": true,
+  "playerCountBeforePlayerName": true,
+  "playerCountOnPlayerLeave": true,
+  "padPlayerCount": true,
+  "lineBreakerTrim": true,
+  "cleanLineSeparator": true,
+  "whiteChat": false,
+  "whitePrivateMessages": false,
+  "coloredStatuses": true,
+  "cleanerGameStartAnnouncements": true,
+  "shortChannelNames": false,
+  "pmShortChannelNames": false,
+  "chatSwapper": false,
+  "chatSwapperReturnChannel": 0,
+  "chattingIntegration": false,
+  "hideAllChatMessage": false,
+  "notifyWhenKick": false,
+  "putInCaps": false,
+  "broadcastAchievements": false,
+  "broadcastLevelup": false,
+  "guildWelcomeMessage": false,
+  "thankWatchdog": false,
+  "preventNonCooldown": false,
+  "preventShoutingOnCooldown": true,
+  "hideKarmaMessages": false,
+  "hideLocraw": true,
+  "lobbyStatus": false,
+  "ticketMachineAnnouncer": false,
+  "soulWellAnnouncer": false,
+  "gameAnnouncements": false,
+  "hypeLimitReminder": false,
+  "playerAdBlock": false,
+  "bedwarsAdvertisements": false,
+  "connectionStatus": false,
+  "guildMotd": false,
+  "mvpEmotes": false,
+  "serverConnectedMessages": false,
+  "gameTipMessages": false,
+  "questsMessages": false,
+  "statsMessages": false,
+  "curseOfSpam": false,
+  "bridgeOwnGoalDeath": false,
+  "duelsNoStatsChange": false,
+  "duelsBlockTrail": false,
+  "skyblockWelcome": false,
+  "giftBlocker": false,
+  "grinchPresents": false,
+  "earnedCoinsAndExp": false,
+  "replayMessage": false,
+  "tipMessage": false,
+  "onlineStatus": false,
+  "lobbyFishing": false,
+  "hotPotato": false,
+  "discordSafetyWarning": false,
+  "autoWB": false,
+  "guildAutoWB": true,
+  "friendsAutoWB": true,
+  "autoWBCooldown": 2,
+  "autoWBMessage1": "Welcome Back!",
+  "randomAutoWB": false,
+  "autoWBMessage2": "Welcome back... General %player%",
+  "autoWBMessage3": "WB!",
+  "autoWBMessage4": "Greetings! %player%",
+  "autoWBMessage5": "Thanks for coming back to hell \u003e:)",
+  "autoWBMessage6": "Its nice having you here today %player%",
+  "autoWBMessage7": "Yooooooooo Mr. %player%",
+  "autoWBMessage8": "Welcome back Padawan %player%",
+  "autoWBMessage9": "Welcome Back! \u003c3",
+  "autoWBMessage10": "Thanks for coming to my TED talk.",
+  "highlightFriendsInTab": 0,
+  "highlightSelfInTab": 0,
+  "hideNpcsInTab": true,
+  "keepImportantNpcsInTab": true,
+  "hideGuildTagsInTab": false,
+  "hidePlayerRanksInTab": false,
+  "hidePingInTab": true,
+  "cleanerSkyblockTabInfo": true,
+  "hideAdsInTab": true,
+  "hideHudElements": false,
+  "gameAdBossbar": true,
+  "hardcoreHearts": true,
+  "hideGameStartingTitles": false,
+  "hideGameEndingTitles": false,
+  "hideCountdownTitles": false,
+  "hideArmor": true,
+  "hideUselessArmorStandsGame": false,
+  "blockNotify": false,
+  "blockNumber": 10,
+  "blockNotifySound": 0,
+  "miniWallsMiddleBeacon": false,
+  "miniWallsMiddleBeaconColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "hideArcadeCosmetics": false,
+  "coloredBeds": true,
+  "heightOverlayInfo": false,
+  "heightOverlayInfo2": false,
+  "heightOverlay": false,
+  "overlayAmount": 300,
+  "manuallyEditHeightOverlay": false,
+  "blockHighlightConfig": {
+    "white": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "orange": {
+      "hsba": [
+        27,
+        76,
+        84,
+        255
+      ],
+      "dataBit": -1
+    },
+    "magenta": {
+      "hsba": [
+        283,
+        64,
+        84,
+        255
+      ],
+      "dataBit": -1
+    },
+    "lightBlue": {
+      "hsba": [
+        213,
+        52,
+        84,
+        255
+      ],
+      "dataBit": -1
+    },
+    "yellow": {
+      "hsba": [
+        60,
+        77,
+        89,
+        255
+      ],
+      "dataBit": -1
+    },
+    "lime": {
+      "hsba": [
+        85,
+        87,
+        80,
+        255
+      ],
+      "dataBit": -1
+    },
+    "pink": {
+      "hsba": [
+        340,
+        47,
+        94,
+        255
+      ],
+      "dataBit": -1
+    },
+    "gray": {
+      "hsba": [
+        0,
+        0,
+        29,
+        255
+      ],
+      "dataBit": -1
+    },
+    "silver": {
+      "hsba": [
+        0,
+        0,
+        60,
+        255
+      ],
+      "dataBit": -1
+    },
+    "cyan": {
+      "hsba": [
+        200,
+        50,
+        60,
+        255
+      ],
+      "dataBit": -1
+    },
+    "purple": {
+      "hsba": [
+        273,
+        64,
+        69,
+        255
+      ],
+      "dataBit": -1
+    },
+    "blue": {
+      "hsba": [
+        228,
+        71,
+        69,
+        255
+      ],
+      "dataBit": -1
+    },
+    "brown": {
+      "hsba": [
+        29,
+        50,
+        40,
+        255
+      ],
+      "dataBit": -1
+    },
+    "green": {
+      "hsba": [
+        79,
+        59,
+        49,
+        255
+      ],
+      "dataBit": -1
+    },
+    "red": {
+      "hsba": [
+        0,
+        66,
+        60,
+        255
+      ],
+      "dataBit": -1
+    },
+    "black": {
+      "hsba": [
+        0,
+        0,
+        9,
+        255
+      ],
+      "dataBit": -1
+    }
+  },
+  "hideDropperActionBar": false,
+  "muteDropperHurtSound": false,
+  "sumoRenderDistance": false,
+  "sumoRenderDistanceAmount": 2,
+  "hideDuelsCosmetics": false,
+  "muteHousingMusic": false,
+  "hideHousingActionBar": false,
+  "pitLagReducer": true,
+  "hideNonNPCs": false,
+  "highlightChests": false,
+  "highlightChestsColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "uhcOverlay": false,
+  "uhcOverlayMultiplier": 1.0,
+  "uhcMiddleWaypoint": false,
+  "uhcMiddleWaypointText": "0,0",
+  "npcHider": false,
+  "hideUselessArmorStands": false,
+  "lobbyBossbar": true,
+  "silentLobby": false,
+  "lobbyDisableSteppingSounds": false,
+  "lobbyDisableSlimeSounds": false,
+  "lobbyDisableDragonSounds": false,
+  "lobbyDisableWitherSounds": false,
+  "lobbyDisableItemPickupSounds": false,
+  "lobbyDisableExperienceOrbSounds": false,
+  "lobbyDisablePrimedTntSounds": false,
+  "lobbyDisableExplosionSounds": false,
+  "lobbyDisableDeliveryManSounds": false,
+  "lobbyDisableNoteBlockSounds": false,
+  "lobbyDisableFireworkSounds": false,
+  "lobbyDisableLevelupSounds": false,
+  "lobbyDisableArrowSounds": false,
+  "lobbyDisableBatSounds": false,
+  "lobbyDisableFireSounds": false,
+  "lobbyDisableEndermanSounds": false,
+  "lobbyDisableDoorSounds": false,
+  "lobbyDisablePortalSounds": false,
+  "hideLimboTitle": false,
+  "limboLimiter": false,
+  "limboFPS": 15,
+  "limboDing": true,
+  "configNumber": 3,
+  "enabled": true,
+  "canToggle": true
+}

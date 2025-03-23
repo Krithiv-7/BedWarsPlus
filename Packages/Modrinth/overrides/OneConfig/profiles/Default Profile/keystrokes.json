@@ -1,0 +1,62 @@
+{
+  "keystrokesElement": {
+    "mouseKeystrokes": true,
+    "jumpKeystrokes": true,
+    "arrows": false,
+    "bgUnpressed": {
+      "hsba": [
+        0,
+        0,
+        0,
+        201
+      ],
+      "dataBit": -1
+    },
+    "textUnpressed": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "bgPressed": {
+      "hsba": [
+        0,
+        0,
+        100,
+        201
+      ],
+      "dataBit": -1
+    },
+    "textPressed": {
+      "hsba": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "dataBit": -1
+    },
+    "fadingTime": 100,
+    "shadow": false,
+    "rounded": true,
+    "cornerRadius": 5,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "0",
+      "x": 16.000002,
+      "y": 29.0
+    },
+    "scale": 0.9,
+    "positionAlignment": 0,
+    "showInChat": true,
+    "showInDebug": false,
+    "showInGuis": true
+  },
+  "enabled": true,
+  "canToggle": true
+}

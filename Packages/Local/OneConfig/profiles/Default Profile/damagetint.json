@@ -1,0 +1,14 @@
+{
+  "color": {
+    "hsba": [
+      0,
+      100,
+      100,
+      76
+    ],
+    "dataBit": -1
+  },
+  "fade": false,
+  "enabled": true,
+  "canToggle": true
+}
