@@ -75,6 +75,7 @@ This modpack includes the following BedWars-compatible resource packs:
 ## Community & Support
 Join our community for help, suggestions, and updates:
 - Discord: [MineVerse](https://discord.gg/uuSYkzahBj)
+- I'm Lonly Pls Join😊😊😊
 
 ## Credits
 - Created by Krithiv-7
