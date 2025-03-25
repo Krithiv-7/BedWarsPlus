@@ -37,6 +37,12 @@ For the best gameplay experience, we recommend using OptiFine alongside this mod
 ## Mod List
 This modpack includes the following BedWars-compatible mods:
 
+### Required Libraries
+1. [TheBombzenAPI](https://github.com/Traneptora/ThebombzenAPI) - Required library for AutoSwitch and other mods
+
+### BedWars Specific
+1. [BedWar Mod](https://modrinth.com/mod/bedwar-mod) - Essential BedWars features and enhancements
+
 ### QoL Mods
 1. [3D Skin Layer](https://modrinth.com/mod/3dskinlayers) - Enhances player models with 3D skin effects
 2. [AutoGG Reimagined](https://modrinth.com/mod/autogg-reimagined) - Automatically sends a "GG" message at the end of every game
@@ -45,20 +51,25 @@ This modpack includes the following BedWars-compatible mods:
 5. [Chatting](https://modrinth.com/mod/chatting) - Improved chat functionality and features
 6. [CrashPatch](https://modrinth.com/mod/crashpatch) - Prevents common game crashes and improves stability
 7. [Damage Tint](https://modrinth.com/mod/damagetint) - Adds a visual tint when you take damage
-8. [Essential Mod](https://essential.gg/) - Core features, improvements, and crash prevention
-9. [Evergreen HUD](https://modrinth.com/mod/evergreenhud) - Customizable HUD elements for better game information display
-10. [FoamFix](https://modrinth.com/mod/foamfix) - Optimizes memory usage and improves game performance
-11. [Hytils Reborn](https://modrinth.com/mod/hytils) - Adds various quality of life features and improvements for Hypixel BedWars
-12. [Ksyxis](https://modrinth.com/mod/ksyxis) - Adds additional features and enhancements for better gameplay experience
-13. [MicroOptimizations](https://modrinth.com/mod/microoptimizations) - Implements small optimizations to improve game performance
-14. [Overflow Animations](https://modrinth.com/mod/animations) - Adds smooth animations to UI elements for a better visual experience
-15. [Phosphor (Legacy Forge)](https://modrinth.com/mod/phosphorlegacyforge) - Optimizes lighting engine performance to improve game performance
-16. [PolyBlur](https://modrinth.com/mod/polyblur) - Adds smooth transition effects and minimizes screen tearing
-17. [PolyPatcher](https://modrinth.com/mod/polypatcher) - Patches known bugs and improves overall game stability
-18. [PolySprint](https://modrinth.com/mod/polysprint) - Enhances sprint functionality for better control and performance
-19. [PolyTime](https://modrinth.com/mod/polytime) - Adds additional time-related features and enhancements
-20. [Replay Mod](https://modrinth.com/mod/replaymod) - Allows you to record, replay, and share your gameplay
-21. [Titanium](https://modrinth.com/mod/titaniumod) - Provides various performance improvements and optimizations
+8. [Entity Culling](https://modrinth.com/mod/entityculling) - Improves performance by not rendering entities that are not visible
+9. [Essential Mod](https://essential.gg/) - Core features, improvements, and crash prevention
+10. [Evergreen HUD](https://modrinth.com/mod/evergreenhud) - Customizable HUD elements for better game information display
+11. [FoamFix](https://modrinth.com/mod/foamfix) - Optimizes memory usage and improves game performance
+12. [FPS Reducer](https://modrinth.com/mod/fps-reducer) - Reduces FPS when Minecraft is in background to save system resources
+13. [Hytils Reborn](https://modrinth.com/mod/hytils) - Adds various quality of life features and improvements for Hypixel BedWars
+14. [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite) - Adds realistic physics to dropped items
+15. [Ksyxis](https://modrinth.com/mod/ksyxis) - Adds additional features and enhancements for better gameplay experience
+16. [MicroOptimizations](https://modrinth.com/mod/microoptimizations) - Implements small optimizations to improve game performance
+17. [Overflow Animations](https://modrinth.com/mod/animations) - Adds smooth animations to UI elements for a better visual experience
+18. [Phosphor (Legacy Forge)](https://modrinth.com/mod/phosphorlegacyforge) - Optimizes lighting engine performance to improve game performance
+19. [PolyBlur](https://modrinth.com/mod/polyblur) - Adds smooth transition effects and minimizes screen tearing
+20. [PolyPatcher](https://modrinth.com/mod/polypatcher) - Patches known bugs and improves overall game stability
+21. [PolySprint](https://modrinth.com/mod/polysprint) - Enhances sprint functionality for better control and performance
+22. [PolyTime](https://modrinth.com/mod/polytime) - Adds additional time-related features and enhancements
+23. [QuickJoin](https://modrinth.com/mod/quickjoin) - Fast server joining and reconnection
+24. [Replay Mod](https://modrinth.com/mod/replaymod) - Allows you to record, replay, and share your gameplay
+25. [Titanium](https://modrinth.com/mod/titaniumod) - Provides various performance improvements and optimizations
+26. [AutoSwitch](https://github.com/Traneptora/AutoSwitch) - Automatically switches to the best tool for breaking blocks
 
 ## Resource Pack List
 This modpack includes the following BedWars-compatible resource packs:
