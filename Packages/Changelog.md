@@ -4,23 +4,23 @@
 ## [v1.1.0-b] - 2025-03-25
 ### Added
 - New Required Libraries:
-  - TheBombzenAPI - Required library for AutoSwitch and other mods
+  - [TheBombzenAPI](https://github.com/Traneptora/ThebombzenAPI) - Required library for AutoSwitch and other mods
 
 - New BedWars Specific Mods:
-  - BedWar Mod - Essential BedWars features and enhancements
+  - [BedWar Mod](https://modrinth.com/mod/bedwar-mod) - Essential BedWars features and enhancements
 
 - New Performance & Optimization Mods:
-  - Entity Culling - Improves performance by not rendering entities that are not visible
-  - FPS Reducer - Reduces FPS when Minecraft is in background to save system resources
+  - [Entity Culling](https://modrinth.com/mod/entityculling) - Improves performance by not rendering entities that are not visible
+  - [FPS Reducer](https://modrinth.com/mod/fps-reducer) - Reduces FPS when Minecraft is in background to save system resources
 
 - New Gameplay Enhancement Mods:
-  - AutoSwitch - Automatically switches to the best tool for breaking blocks
+  - [AutoSwitch](https://github.com/Traneptora/AutoSwitch) - Automatically switches to the best tool for breaking blocks
 
 - New Visual Improvement Mods:
-  - ItemPhysic Lite - Adds realistic physics to dropped items
+  - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite) - Adds realistic physics to dropped items
 
 - New Utility Mods:
-  - QuickJoin - Fast server joining and reconnection
+  - [Quick Join](https://modrinth.com/mod/quickjoin) - Fast server joining and reconnection
 
 ### Changed
 - Updated mod organization structure in README.md
