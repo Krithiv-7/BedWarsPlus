@@ -1,5 +1,41 @@
 # Changelog
 
+
+## [v1.1.0-b] - 2025-03-25
+### Added
+- New Required Libraries:
+  - TheBombzenAPI - Required library for AutoSwitch and other mods
+
+- New BedWars Specific Mods:
+  - BedWar Mod - Essential BedWars features and enhancements
+
+- New Performance & Optimization Mods:
+  - Entity Culling - Improves performance by not rendering entities that are not visible
+  - FPS Reducer - Reduces FPS when Minecraft is in background to save system resources
+
+- New Gameplay Enhancement Mods:
+  - AutoSwitch - Automatically switches to the best tool for breaking blocks
+
+- New Visual Improvement Mods:
+  - ItemPhysic Lite - Adds realistic physics to dropped items
+
+- New Utility Mods:
+  - QuickJoin - Fast server joining and reconnection
+
+### Changed
+- Updated mod organization structure in README.md
+- Added new categories for better mod classification
+- Improved installation instructions to include required libraries
+- Added version numbering system:
+  - vX.0.0 - Major changes (new mods or major updates)
+  - v0.X.0 - Minor changes (mod updates or resource packs)
+  - v0.0.X - Patch changes (configs and minor fixes)
+  
+  Build Types:
+  - -a (Alpha) - Highly development stage, may crash and contain more bugs
+  - -b (Beta) - Development stage completed, usable with possible bugs
+  - -r (Release) - Final build with minimal possibility of bugs
+
 ## [v1.0.0-a] - 2025-03-23
 ### Alpha Build - Initial Release
 
