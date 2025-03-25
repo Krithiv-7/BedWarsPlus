@@ -1,0 +1,140 @@
+{
+  "about": {
+    "autoUpdates": true,
+    "updateStream": "RELEASES"
+  },
+  "gui": {
+    "keyBindOpen": 0,
+    "globalScale": 1.0,
+    "buttonOnPause": true
+  },
+  "inventory": {
+    "resourceOverlay": {
+      "enabled": true,
+      "showTotal": true,
+      "position": {
+        "x": -66,
+        "y": 101,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true
+      }
+    },
+    "shopInventoryOverlay": {
+      "enabled": false,
+      "hidePurchased": true,
+      "blockClicks": false,
+      "opacityGrey": 210,
+      "showAffordable": false,
+      "opacityGreen": 45
+    },
+    "shopMiddleClick": false
+  },
+  "session": {
+    "sessionTracker": {
+      "enabled": true,
+      "showInLobby": true,
+      "order": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "position": {
+        "x": 0,
+        "y": 143,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true
+      }
+    },
+    "trapQueue": {
+      "enabled": true,
+      "position": {
+        "x": 213,
+        "y": 4,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true
+      }
+    }
+  },
+  "party": {
+    "matchStats": {
+      "enabled": true,
+      "actionType": 0,
+      "statsDelay": 1250,
+      "sendOnLoss": false,
+      "sendDelay": 250
+    },
+    "shortCommands": true,
+    "partyKickReason": true
+  },
+  "team": {
+    "teamStatus": {
+      "enabled": true,
+      "showSolo": true,
+      "position": {
+        "x": 105,
+        "y": 0,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true
+      }
+    }
+  },
+  "chat": {
+    "copyChat": true,
+    "chatMentions": true,
+    "chatHighlight": true,
+    "playerStats": {
+      "statType": "OVERALL",
+      "partyJoin": false,
+      "clickName": true
+    },
+    "swapLobbyCommand": true
+  },
+  "notifications": {
+    "corner": 1,
+    "direction": 0,
+    "animations": true,
+    "items": true,
+    "partyNotifications": {
+      "enabled": true,
+      "sound": false,
+      "displayLength": 5.0
+    },
+    "gameNotifications": {
+      "enabled": true,
+      "sound": false,
+      "displayLength": 5.0
+    },
+    "deathNotifications": {
+      "enabled": true,
+      "sound": false,
+      "displayLength": 5.0
+    },
+    "modErrors": {
+      "enabled": true,
+      "sound": true,
+      "displayLength": 5.0
+    }
+  },
+  "dev": {
+    "oldApi": false,
+    "apiKey": ""
+  },
+  "storage": {
+    "players": {
+      "fa4c20f1-bc2c-4a65-929b-a81759494a6e": {},
+      "d831881f-03e6-45c2-a517-a1f52cc93f0e": {}
+    }
+  }
+}

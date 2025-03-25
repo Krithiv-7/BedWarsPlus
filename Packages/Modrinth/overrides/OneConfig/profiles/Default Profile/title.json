@@ -46,13 +46,9 @@
     },
     "cornerRadius": 2.0,
     "borderSize": 2.0,
-    "defaultPaddingX": 2.0,
     "paddingX": 2.0,
-    "defaultPaddingY": 2.0,
     "paddingY": 2.0,
     "enabled": true,
-    "locked": false,
-    "ignoreCaching": false,
     "position": {
       "anchor": "4",
       "x": 0.0,
@@ -61,7 +57,7 @@
     "scale": 4.0,
     "positionAlignment": 0,
     "showInChat": true,
-    "showInDebug": true,
+    "showInDebug": false,
     "showInGuis": true
   },
   "subtitleHUD": {
@@ -111,13 +107,9 @@
     },
     "cornerRadius": 2.0,
     "borderSize": 2.0,
-    "defaultPaddingX": 2.0,
     "paddingX": 2.0,
-    "defaultPaddingY": 2.0,
     "paddingY": 2.0,
     "enabled": true,
-    "locked": false,
-    "ignoreCaching": false,
     "position": {
       "anchor": "4",
       "x": 0.0,
@@ -126,7 +118,7 @@
     "scale": 2.0,
     "positionAlignment": 0,
     "showInChat": true,
-    "showInDebug": true,
+    "showInDebug": false,
     "showInGuis": true
   },
   "enabled": true,

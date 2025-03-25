@@ -46,22 +46,18 @@
     },
     "cornerRadius": 0.0,
     "borderSize": 2.0,
-    "defaultPaddingX": 0.0,
     "paddingX": 0.0,
-    "defaultPaddingY": 0.0,
     "paddingY": 0.0,
     "enabled": true,
-    "locked": false,
-    "ignoreCaching": false,
     "position": {
       "anchor": "7",
       "x": 0.0,
-      "y": -62.0
+      "y": -58.0
     },
     "scale": 1.0,
     "positionAlignment": 0,
     "showInChat": true,
-    "showInDebug": true,
+    "showInDebug": false,
     "showInGuis": true
   },
   "enabled": true,

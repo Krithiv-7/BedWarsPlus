@@ -74,7 +74,7 @@
   "chatScreenshot": true,
   "chatSearch": true,
   "showChatHeads": true,
-  "offsetNonPlayerMessages": false,
+  "offsetNonPlayerMessages": true,
   "hideChatHeadOnConsecutiveMessages": true,
   "ignored": false,
   "ignored1": false,
@@ -188,5 +188,5 @@
   "isPatcherMigrated": true,
   "isPatcherMigratedPt2CauseImStupid": true,
   "enabled": true,
-  "canToggle": false
+  "canToggle": true
 }

@@ -4,7 +4,53 @@
   "updateChannel": 0,
   "favoriteMods": [],
   "favoriteColors": [],
-  "recentColors": [],
+  "recentColors": [
+    {
+      "hsba": [
+        119,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    {
+      "hsba": [
+        355,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    {
+      "hsba": [
+        223,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    {
+      "hsba": [
+        259,
+        0,
+        0,
+        255
+      ],
+      "dataBit": -1
+    },
+    {
+      "hsba": [
+        233,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    }
+  ],
   "australia": false,
   "enabled": true,
   "canToggle": true

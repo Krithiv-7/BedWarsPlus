@@ -1,0 +1,8 @@
+
+[general]
+	adjust_hurt_camera_effect = 0.0
+
+	[general.damage_types]
+		adjust_hurt_camera_effect_in_lava = 14.0
+		adjust_hurt_camera_effect_while_burning = 14.0
+

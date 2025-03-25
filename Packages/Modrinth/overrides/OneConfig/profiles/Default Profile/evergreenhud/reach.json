@@ -14,7 +14,7 @@
       ],
       "dataBit": -1
     },
-    "title": "R",
+    "title": "Reach",
     "titleLocation": 0,
     "color": {
       "hsba": [
@@ -26,8 +26,8 @@
       "dataBit": -1
     },
     "textType": 0,
-    "background": false,
-    "rounded": false,
+    "background": true,
+    "rounded": true,
     "border": false,
     "bgColor": {
       "hsba": [
@@ -47,7 +47,7 @@
       ],
       "dataBit": -1
     },
-    "cornerRadius": 2.0,
+    "cornerRadius": 4.0234375,
     "borderSize": 2.0,
     "defaultPaddingX": 5.0,
     "paddingX": 5.0,
@@ -58,8 +58,8 @@
     "ignoreCaching": false,
     "position": {
       "anchor": "7",
-      "x": 106.0,
-      "y": 0.0
+      "x": -125.0,
+      "y": -3.0
     },
     "scale": 1.0,
     "positionAlignment": 0,

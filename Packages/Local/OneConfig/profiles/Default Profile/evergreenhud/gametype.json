@@ -11,8 +11,8 @@
       ],
       "dataBit": -1
     },
-    "title": "Game Type",
-    "titleLocation": 0,
+    "title": "Game",
+    "titleLocation": 1,
     "color": {
       "hsba": [
         0,
@@ -44,7 +44,7 @@
       ],
       "dataBit": -1
     },
-    "cornerRadius": 5.0,
+    "cornerRadius": 3.9648438,
     "borderSize": 2.0,
     "defaultPaddingX": 5.0,
     "paddingX": 5.0,
@@ -56,11 +56,11 @@
     "position": {
       "anchor": "8",
       "x": 0.0,
-      "y": 0.0
+      "y": -3.0
     },
     "scale": 1.0,
     "positionAlignment": 0,
-    "showInChat": true,
+    "showInChat": false,
     "showInDebug": false,
     "showInGuis": true
   },

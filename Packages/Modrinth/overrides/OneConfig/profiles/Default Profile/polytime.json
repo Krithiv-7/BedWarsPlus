@@ -1,8 +1,8 @@
 {
   "credits": false,
-  "irlTime": true,
-  "irlLunarPhases": false,
-  "time": 12.0,
+  "irlTime": false,
+  "irlLunarPhases": true,
+  "time": 19.640625,
   "fastTime": false,
   "fastSpeed": 1.0,
   "enabled": true,

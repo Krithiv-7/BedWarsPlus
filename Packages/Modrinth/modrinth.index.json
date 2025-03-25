@@ -1,130 +1,10 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "v1.1.0-b",
   "name": "BedWars+",
-  "summary": "",
+  "summary": "# Changelog\n\n## [v1.1.0-b] - 2025-03-25 08:21:27 UTC\n### Added\n- New Required Libraries:\n  - TheBombzenAPI - Required library for AutoSwitch and other mods\n\n- New BedWars Specific Mods:\n  - BedWar Mod - Essential BedWars features and enhancements\n\n- New Performance & Optimization Mods:\n  - Entity Culling - Improves performance by not rendering entities that are not visible\n  - FPS Reducer - Reduces FPS when Minecraft is in background to save system resources\n\n- New Gameplay Enhancement Mods:\n  - AutoSwitch - Automatically switches to the best tool for breaking blocks\n\n- New Visual Improvement Mods:\n  - ItemPhysic Lite - Adds realistic physics to dropped items\n\n- New Utility Mods:\n  - QuickJoin - Fast server joining and reconnection\n\n### Changed\n- Updated mod organization structure in README.md\n- Added new categories for better mod classification\n- Improved installation instructions to include required libraries\n- Added version numbering system:\n  - vX.0.0 - Major changes (new mods or major updates)\n  - v0.X.0 - Minor changes (mod updates or resource packs)\n  - v0.0.X - Patch changes (configs and minor fixes)\n  \n  Build Types:\n  - -a (Alpha) - Highly development stage, may crash and contain more bugs\n  - -b (Beta) - Development stage completed, usable with possible bugs\n  - -r (Release) - Final build with minimal possibility of bugs",
   "files": [
-    {
-      "path": "mods/OverflowAnimations-1.8.9-forge-2.2.5.jar",
-      "hashes": {
-        "sha512": "526568078e0ed17ae0e60ed4af69e872d7e5d8a077bcb8881f417b820e77f16668a6ad2a718475b7f45554fdd77889a837166ac6cb5914301d257d26b5f0695a",
-        "sha1": "66ef68df6a816a3b508c310bfef3e651793f6753"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/4Hfmgaef/versions/elKb2H82/OverflowAnimations-1.8.9-forge-2.2.5.jar"
-      ],
-      "fileSize": 173029
-    },
-    {
-      "path": "mods/replaymod-1.8.9-2.6.20.jar",
-      "hashes": {
-        "sha1": "11a8ebe00818a00b319e0bf41ca672e9321d9d8a",
-        "sha512": "ef49566deeaab0806ed9c282cca49c5edb4e3a79308b9ba479332867fd031a6800ca7b37f7aa6868070b140f1ff64cac3836d207fc83eb2391df837ab57dc5c6"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Nv2fQJo5/versions/OJEjSBv2/replaymod-1.8.9-2.6.20.jar"
-      ],
-      "fileSize": 16074300
-    },
-    {
-      "path": "mods/Keystrokes-1.8.9-forge-1.0.0.jar",
-      "hashes": {
-        "sha1": "86abfb0a51e1af21fb19ebf72cb0c62f73d499c5",
-        "sha512": "d4d8a8b7d65aad9750277d4e9a82525214a359ba390d60b5fffba30e22613ff552e69286b40d8f66bf6c3d7636cc4cca34da6f6f0a90b0616b8001b7967ff19d"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/G2Hmyf0G/versions/70oHEIpB/Keystrokes-1.8.9-forge-1.0.0.jar"
-      ],
-      "fileSize": 28299
-    },
-    {
-      "path": "mods/CrashPatch-1.8.9-forge-2.0.2.jar",
-      "hashes": {
-        "sha1": "23f13fbf1f81133ed5bf0ad5278d8c51bac9a3d7",
-        "sha512": "6ddba5eb1184ceab16b70f7bb951115eb1b43717535fa4f765552c3729b6357b257056533ee2b17384b7ffe93f767e5cb2b4f036f3c977c174dadb302d08fee5"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nZ3E8WQz/versions/qDhse9AS/CrashPatch-1.8.9-forge-2.0.2.jar"
-      ],
-      "fileSize": 580078
-    },
-    {
-      "path": "mods/PolyTime-1.8.9-forge-1.0.2.jar",
-      "hashes": {
-        "sha1": "ee8f0f9bd4d34d5dd690584e4d6852281cf187dc",
-        "sha512": "f411fbc34e733d0c2b25268d3621d0861da6c03c85aefa4985e80686ce4ff00f3126d6defaeebde02502491df65c9b437634e6381ca38dc2b02803705b06f7c8"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/m3kNp1iP/versions/n5yBVXbc/PolyTime-1.8.9-forge-1.0.2.jar"
-      ],
-      "fileSize": 85819
-    },
-    {
-      "path": "mods/foamfix-0.6.3a-anarchy-1.8.x.jar",
-      "hashes": {
-        "sha1": "58f4f9165f1c91222e33493175c805879e75db6b",
-        "sha512": "d66854ac4680e7b7677a8cc43588dbe01d29724a36c66cbfa0808a110f6d96377918e831606a765358cd7d6ead0b7363bd0c62cb3b0d7941697d328dee9fc7be"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/jupr7Bf5/versions/MqLKfrk2/foamfix-0.6.3a-anarchy-1.8.x.jar"
-      ],
-      "fileSize": 86043
-    },
-    {
-      "path": "mods/BehindYouV3-1.8.9-forge-3.2.2.jar",
-      "hashes": {
-        "sha1": "a50b864ece41d2ac39b53224f1b27feaa969b57b",
-        "sha512": "f3501269e7025c379b2899288a040457d042c4b17df49559e1f2b10fcc8e68d2aea1284e29de8d87e5897606d8432f8ce30a96b3f7d4fe2923eb91dbca0029c2"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/sAFPANmp/versions/cq1UuFm5/BehindYouV3-1.8.9-forge-3.2.2.jar"
-      ],
-      "fileSize": 31355
-    },
-    {
-      "path": "mods/Chatting-1.8.9-forge-2.0.6.jar",
-      "hashes": {
-        "sha1": "68b9960a2632e6a19e89c23daca78ecb8f11f46d",
-        "sha512": "e3c39001aff31ae2741bce00056390f5ff1446736280fcd3db36ca375f29b8da3e5793dbd2b1794ce588be354276a03d47e166e2d7d2268745797f0de73ae44c"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/8pJYUDNi/versions/TaaTviAI/Chatting-1.8.9-forge-2.0.6.jar"
-      ],
-      "fileSize": 195637
-    },
     {
       "path": "mods/phosphor-universal.jar",
       "hashes": {
@@ -132,148 +12,13 @@
         "sha512": "7390b4a6eefc6060bc86386261f77f4b7a7eebb579ca676baf9867ba4812ba3e0e82cc395ef05a6825d311f9be847a1539eb7102bcf93eabd510f25a56af9690"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/oCBQFmrZ/versions/EoRB0IqD/phosphor-universal.jar"
       ],
       "fileSize": 1050928
-    },
-    {
-      "path": "mods/Ksyxis-1.3.3.jar",
-      "hashes": {
-        "sha1": "2fff901eeb095c0a17ee16590e1be76c968224fc",
-        "sha512": "e754d8709d4a4c4ea894dda7bc5c3b017c8baddaaaa67b2319881d52dcce5ecd12d626087d55008de5eb942b02cf9e2099c71602296c5b63ea75abb2452b0bc7"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2ecVyZ49/versions/ueN87SNs/Ksyxis-1.3.3.jar"
-      ],
-      "fileSize": 28484
-    },
-    {
-      "path": "mods/microoptimizations-1.0.0.jar",
-      "hashes": {
-        "sha512": "2043f939b73e2807a395fce90de8c33a7ac614bb68cc55e94487c8d5b67698582a7802f056dc6598d563c0ba4df1933330b4857a00cf880b89cfe7f3019215a1",
-        "sha1": "92cfc514816d9052537e32f02e564676f49c209c"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/T2u4f9jf/versions/qH78ug2m/microoptimizations-1.0.0.jar"
-      ],
-      "fileSize": 1063607
-    },
-    {
-      "path": "mods/Titanium V0.2.jar",
-      "hashes": {
-        "sha512": "c340a032b37411966a9de922912d55b38da3dc12c8f972113ef8e88bd77f9bb9fecf95089f17993e4d1be767924ff0c666b32a27ef1ff604a7bb63cc86a7a1ec",
-        "sha1": "81009e1ed441f07f957a585a81c1d7d43213fb0f"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/T61qr8P3/versions/nasT0Or7/Titanium%20V0.2.jar"
-      ],
-      "fileSize": 6606
-    },
-    {
-      "path": "resourcepacks/GeoFont Legacy v1.2 GUI Scale 4.zip",
-      "hashes": {
-        "sha512": "ea3ed874f462674ccb07433b7a30601d4b174ae3776b1feed71965d5d974d8199f3c3e074cc04121f210d7026aecbcc0f41c854def1433f14e49c792d36c7579",
-        "sha1": "e610825ce800bd9d190671b092b4d3fd858e9711"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/hIdXd06Y/versions/keY7PlVK/GeoFont%20Legacy%20v1.2%20GUI%20Scale%204.zip"
-      ],
-      "fileSize": 30921
-    },
-    {
-      "path": "mods/PolyPatcher-1.8.9-forge-1.10.2.jar",
-      "hashes": {
-        "sha1": "295ae3f562b66d95560a6f653d638c0b945fd21b",
-        "sha512": "ba8c651d4036ce181a436209308722e1cce587a6c34b058f03d19381e9beb0c238eabaea818057aa219419403c2cd37f0c97212dacfacbf837f4e495354d9478"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/YknNc5nN/versions/qMIi00a0/PolyPatcher-1.8.9-forge-1.10.2.jar"
-      ],
-      "fileSize": 27195513
-    },
-    {
-      "path": "mods/PolySprint-1.8.9-forge-1.0.1.jar",
-      "hashes": {
-        "sha512": "56762859d1a316f08960d57bf2e1dabcf62d16d2fc98377e71c93b289ea8673cc4b3b0bb098cafbbd48b44b82d02fb859ce2ab91ff788339141b58dbd238f0f2",
-        "sha1": "5b398e365f7f47917fa0f3c63feb73b19c0ea63c"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/i9xRThb3/versions/97DQkyRE/PolySprint-1.8.9-forge-1.0.1.jar"
-      ],
-      "fileSize": 73564
-    },
-    {
-      "path": "resourcepacks/§1§lBedwarsEssentials.zip",
-      "hashes": {
-        "sha1": "a9d064a616058987894bbeb1ad1f94ab18c94771",
-        "sha512": "35f7dec84f4ce6ba4db63f313bbda872a17c48f98c7c1954b8b878c25837d001a20c5bb04a91419f98673dc099ea04e3b591125796ff7a8e5751c03f06cfb649"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/GJVAhAZD/versions/Y6MaYRcJ/%C2%A71%C2%A7lBedwarsEssentials.zip"
-      ],
-      "fileSize": 687181
-    },
-    {
-      "path": "mods/DamageTint-1.8.9-forge-3.3.0.jar",
-      "hashes": {
-        "sha1": "37e88a359d215a7446d445aff15a525dda5e6543",
-        "sha512": "3294cf03dac9ebffa70f64eaeb20bfc980ab98d1f2809faa01f76535bed567e009c93650d082e23660a4050f74bc40d701d978b3cc469f5ffa0205bfb39cdbe7"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/6zatK8W5/versions/HdS6AFjo/DamageTint-1.8.9-forge-3.3.0.jar"
-      ],
-      "fileSize": 21766
-    },
-    {
-      "path": "mods/essential_1-3-5-9_forge_1-8-9.jar",
-      "hashes": {
-        "sha512": "3d80cde745de981e5caa30004ebaac7c4f316d0d7e5a4df001ec22f10bc503895cb5f93e718466bf283efacd2c45df09bbef7b9064987bee54b3c73185255c12",
-        "sha1": "0821ea6657ced1dd8482249a4e1bd10c25ff3d62"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/NJUzBB5J/essential_1-3-5-9_forge_1-8-9.jar"
-      ],
-      "fileSize": 56699929
     },
     {
       "path": "mods/PolyBlur-1.8.9-forge-1.0.2.jar",
@@ -291,10 +36,115 @@
       "fileSize": 54432
     },
     {
+      "path": "mods/QuickJoin-1.8.9-forge-2.7.jar",
+      "hashes": {
+        "sha1": "771c12380bc82342377fbb5372c8e8b61ac31ad6",
+        "sha512": "a3bb4615e8698c803dbc5614b1d17ff103f011887f3184c44069d285f7f4895aead4f6a8d21726d197771b6c25174454a3f3e4731e316cf59aae4ff3c44550bd"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/S8VritJf/versions/pNBOGLU1/QuickJoin-1.8.9-forge-2.7.jar"
+      ],
+      "fileSize": 228494
+    },
+    {
+      "path": "mods/foamfix-0.6.3a-anarchy-1.8.x.jar",
+      "hashes": {
+        "sha1": "58f4f9165f1c91222e33493175c805879e75db6b",
+        "sha512": "d66854ac4680e7b7677a8cc43588dbe01d29724a36c66cbfa0808a110f6d96377918e831606a765358cd7d6ead0b7363bd0c62cb3b0d7941697d328dee9fc7be"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jupr7Bf5/versions/MqLKfrk2/foamfix-0.6.3a-anarchy-1.8.x.jar"
+      ],
+      "fileSize": 86043
+    },
+    {
+      "path": "mods/CrashPatch-1.8.9-forge-2.0.2.jar",
+      "hashes": {
+        "sha512": "6ddba5eb1184ceab16b70f7bb951115eb1b43717535fa4f765552c3729b6357b257056533ee2b17384b7ffe93f767e5cb2b4f036f3c977c174dadb302d08fee5",
+        "sha1": "23f13fbf1f81133ed5bf0ad5278d8c51bac9a3d7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nZ3E8WQz/versions/qDhse9AS/CrashPatch-1.8.9-forge-2.0.2.jar"
+      ],
+      "fileSize": 580078
+    },
+    {
+      "path": "mods/Ksyxis-1.3.3.jar",
+      "hashes": {
+        "sha1": "2fff901eeb095c0a17ee16590e1be76c968224fc",
+        "sha512": "e754d8709d4a4c4ea894dda7bc5c3b017c8baddaaaa67b2319881d52dcce5ecd12d626087d55008de5eb942b02cf9e2099c71602296c5b63ea75abb2452b0bc7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2ecVyZ49/versions/ueN87SNs/Ksyxis-1.3.3.jar"
+      ],
+      "fileSize": 28484
+    },
+    {
+      "path": "resourcepacks/GeoFont Legacy v1.2 GUI Scale 4.zip",
+      "hashes": {
+        "sha512": "ea3ed874f462674ccb07433b7a30601d4b174ae3776b1feed71965d5d974d8199f3c3e074cc04121f210d7026aecbcc0f41c854def1433f14e49c792d36c7579",
+        "sha1": "e610825ce800bd9d190671b092b4d3fd858e9711"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hIdXd06Y/versions/keY7PlVK/GeoFont%20Legacy%20v1.2%20GUI%20Scale%204.zip"
+      ],
+      "fileSize": 30921
+    },
+    {
+      "path": "resourcepacks/§1§lBedwarsEssentials.zip",
+      "hashes": {
+        "sha512": "35f7dec84f4ce6ba4db63f313bbda872a17c48f98c7c1954b8b878c25837d001a20c5bb04a91419f98673dc099ea04e3b591125796ff7a8e5751c03f06cfb649",
+        "sha1": "a9d064a616058987894bbeb1ad1f94ab18c94771"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GJVAhAZD/versions/Y6MaYRcJ/%C2%A71%C2%A7lBedwarsEssentials.zip"
+      ],
+      "fileSize": 687181
+    },
+    {
+      "path": "mods/PolySprint-1.8.9-forge-1.0.1.jar",
+      "hashes": {
+        "sha512": "56762859d1a316f08960d57bf2e1dabcf62d16d2fc98377e71c93b289ea8673cc4b3b0bb098cafbbd48b44b82d02fb859ce2ab91ff788339141b58dbd238f0f2",
+        "sha1": "5b398e365f7f47917fa0f3c63feb73b19c0ea63c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/i9xRThb3/versions/97DQkyRE/PolySprint-1.8.9-forge-1.0.1.jar"
+      ],
+      "fileSize": 73564
+    },
+    {
       "path": "mods/AutoGG_Reimagined-1.8.9-forge-1.1.jar",
       "hashes": {
-        "sha512": "62285758998848a2c55a6fc1f9b7f8e193779b6d5ad1a4713304ea79c2c7c409c35a2d7ae186708e1f43d3ca2edc66cb0443bc63ea57fe6692eec3707cd3fd4a",
-        "sha1": "cbfd53cb7cebb159b6f9d36e531262362397cb7b"
+        "sha1": "cbfd53cb7cebb159b6f9d36e531262362397cb7b",
+        "sha512": "62285758998848a2c55a6fc1f9b7f8e193779b6d5ad1a4713304ea79c2c7c409c35a2d7ae186708e1f43d3ca2edc66cb0443bc63ea57fe6692eec3707cd3fd4a"
       },
       "env": {
         "server": "required",
@@ -304,6 +154,51 @@
         "https://cdn.modrinth.com/data/9CZeE10L/versions/vS3HEzfU/AutoGG_Reimagined-1.8.9-forge-1.1.jar"
       ],
       "fileSize": 52103
+    },
+    {
+      "path": "mods/FpsReducer-mc1.8.9-1.10.3.jar",
+      "hashes": {
+        "sha512": "f832d41a4c8fc1baca6107a711638f007e2974960cdb07e9a7d9f5df4e58dce81c362f12a2bb55436a8d3b75eea2f966d85930bf8162bd0787e2cace0293db22",
+        "sha1": "3f668578543aaea62195890b7a5a9c6c1272317e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iZ10HXDj/versions/zbiYRGSH/FpsReducer-mc1.8.9-1.10.3.jar"
+      ],
+      "fileSize": 43481
+    },
+    {
+      "path": "mods/Titanium V0.2.jar",
+      "hashes": {
+        "sha1": "81009e1ed441f07f957a585a81c1d7d43213fb0f",
+        "sha512": "c340a032b37411966a9de922912d55b38da3dc12c8f972113ef8e88bd77f9bb9fecf95089f17993e4d1be767924ff0c666b32a27ef1ff604a7bb63cc86a7a1ec"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/T61qr8P3/versions/nasT0Or7/Titanium%20V0.2.jar"
+      ],
+      "fileSize": 6606
+    },
+    {
+      "path": "mods/Hytils Reborn-1.8.9-forge-1.7.4.jar",
+      "hashes": {
+        "sha512": "36e83c871250eab558c17c61f6a89843cd2f6b3eae4368c5985736109a549776e5677f9ddab941ff8f49021563802619698a4e5cc9a63a8f21ce12517f1c2e8b",
+        "sha1": "55aa5ff7bcd23f2a118b9066ef6749988f89c64d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nF6YaBfO/versions/u9ZFPMb5/Hytils%20Reborn-1.8.9-forge-1.7.4.jar"
+      ],
+      "fileSize": 354064
     },
     {
       "path": "mods/EvergreenHUD-1.8.9-forge-2.1.7.jar",
@@ -321,34 +216,199 @@
       "fileSize": 250199
     },
     {
-      "path": "mods/Hytils Reborn-1.8.9-forge-1.7.4.jar",
+      "path": "mods/Keystrokes-1.8.9-forge-1.0.0.jar",
       "hashes": {
-        "sha1": "55aa5ff7bcd23f2a118b9066ef6749988f89c64d",
-        "sha512": "36e83c871250eab558c17c61f6a89843cd2f6b3eae4368c5985736109a549776e5677f9ddab941ff8f49021563802619698a4e5cc9a63a8f21ce12517f1c2e8b"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nF6YaBfO/versions/u9ZFPMb5/Hytils%20Reborn-1.8.9-forge-1.7.4.jar"
-      ],
-      "fileSize": 354064
-    },
-    {
-      "path": "mods/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
-      "hashes": {
-        "sha512": "6285c62c92cf888098be171272f7d49bd83a1fce334137f0d9e6abba1e2141ad4e6a2475c19ac6efa2e25dfe347d4ca4ee4def41b31cd18a499e95edde50b9f9",
-        "sha1": "309e954f11df7f73a3b8f9f7f55e4a1574173e31"
+        "sha512": "d4d8a8b7d65aad9750277d4e9a82525214a359ba390d60b5fffba30e22613ff552e69286b40d8f66bf6c3d7636cc4cca34da6f6f0a90b0616b8001b7967ff19d",
+        "sha1": "86abfb0a51e1af21fb19ebf72cb0c62f73d499c5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
+        "https://cdn.modrinth.com/data/G2Hmyf0G/versions/70oHEIpB/Keystrokes-1.8.9-forge-1.0.0.jar"
+      ],
+      "fileSize": 28299
+    },
+    {
+      "path": "mods/PolyTime-1.8.9-forge-1.0.2.jar",
+      "hashes": {
+        "sha512": "f411fbc34e733d0c2b25268d3621d0861da6c03c85aefa4985e80686ce4ff00f3126d6defaeebde02502491df65c9b437634e6381ca38dc2b02803705b06f7c8",
+        "sha1": "ee8f0f9bd4d34d5dd690584e4d6852281cf187dc"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/m3kNp1iP/versions/n5yBVXbc/PolyTime-1.8.9-forge-1.0.2.jar"
+      ],
+      "fileSize": 85819
+    },
+    {
+      "path": "mods/entityculling-forge-mc1.8.9-1.5.0.jar",
+      "hashes": {
+        "sha512": "af587b299cdf0ac1cc2892fd2e52c715d36c9ecffddd1f7ce71426fc988eccc54eda70b6f66b114813ff521fcdd1e3e871f559139d23c3a1b87c11d5f795a931",
+        "sha1": "8486805fba71de6788f6c60baf2e69f6bc3c59e7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-forge-1.8.9/entityculling-forge-mc1.8.9-1.5.0.jar"
+      ],
+      "fileSize": 3659166
+    },
+    {
+      "path": "mods/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
+      "hashes": {
+        "sha1": "309e954f11df7f73a3b8f9f7f55e4a1574173e31",
+        "sha512": "6285c62c92cf888098be171272f7d49bd83a1fce334137f0d9e6abba1e2141ad4e6a2475c19ac6efa2e25dfe347d4ca4ee4def41b31cd18a499e95edde50b9f9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
         "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
       ],
       "fileSize": 4032173
+    },
+    {
+      "path": "mods/OverflowAnimations-1.8.9-forge-2.2.5.jar",
+      "hashes": {
+        "sha1": "66ef68df6a816a3b508c310bfef3e651793f6753",
+        "sha512": "526568078e0ed17ae0e60ed4af69e872d7e5d8a077bcb8881f417b820e77f16668a6ad2a718475b7f45554fdd77889a837166ac6cb5914301d257d26b5f0695a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4Hfmgaef/versions/elKb2H82/OverflowAnimations-1.8.9-forge-2.2.5.jar"
+      ],
+      "fileSize": 173029
+    },
+    {
+      "path": "mods/microoptimizations-1.0.0.jar",
+      "hashes": {
+        "sha1": "92cfc514816d9052537e32f02e564676f49c209c",
+        "sha512": "2043f939b73e2807a395fce90de8c33a7ac614bb68cc55e94487c8d5b67698582a7802f056dc6598d563c0ba4df1933330b4857a00cf880b89cfe7f3019215a1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/T2u4f9jf/versions/qH78ug2m/microoptimizations-1.0.0.jar"
+      ],
+      "fileSize": 1063607
+    },
+    {
+      "path": "mods/BehindYouV3-1.8.9-forge-3.2.2.jar",
+      "hashes": {
+        "sha512": "f3501269e7025c379b2899288a040457d042c4b17df49559e1f2b10fcc8e68d2aea1284e29de8d87e5897606d8432f8ce30a96b3f7d4fe2923eb91dbca0029c2",
+        "sha1": "a50b864ece41d2ac39b53224f1b27feaa969b57b"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sAFPANmp/versions/cq1UuFm5/BehindYouV3-1.8.9-forge-3.2.2.jar"
+      ],
+      "fileSize": 31355
+    },
+    {
+      "path": "mods/DamageTint-1.8.9-forge-3.3.0.jar",
+      "hashes": {
+        "sha512": "3294cf03dac9ebffa70f64eaeb20bfc980ab98d1f2809faa01f76535bed567e009c93650d082e23660a4050f74bc40d701d978b3cc469f5ffa0205bfb39cdbe7",
+        "sha1": "37e88a359d215a7446d445aff15a525dda5e6543"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6zatK8W5/versions/HdS6AFjo/DamageTint-1.8.9-forge-3.3.0.jar"
+      ],
+      "fileSize": 21766
+    },
+    {
+      "path": "mods/Chatting-1.8.9-forge-2.0.6.jar",
+      "hashes": {
+        "sha1": "68b9960a2632e6a19e89c23daca78ecb8f11f46d",
+        "sha512": "e3c39001aff31ae2741bce00056390f5ff1446736280fcd3db36ca375f29b8da3e5793dbd2b1794ce588be354276a03d47e166e2d7d2268745797f0de73ae44c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8pJYUDNi/versions/TaaTviAI/Chatting-1.8.9-forge-2.0.6.jar"
+      ],
+      "fileSize": 195637
+    },
+    {
+      "path": "mods/essential_1-3-5-9_forge_1-8-9.jar",
+      "hashes": {
+        "sha1": "0821ea6657ced1dd8482249a4e1bd10c25ff3d62",
+        "sha512": "3d80cde745de981e5caa30004ebaac7c4f316d0d7e5a4df001ec22f10bc503895cb5f93e718466bf283efacd2c45df09bbef7b9064987bee54b3c73185255c12"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/NJUzBB5J/essential_1-3-5-9_forge_1-8-9.jar"
+      ],
+      "fileSize": 56699929
+    },
+    {
+      "path": "mods/replaymod-1.8.9-2.6.20.jar",
+      "hashes": {
+        "sha512": "ef49566deeaab0806ed9c282cca49c5edb4e3a79308b9ba479332867fd031a6800ca7b37f7aa6868070b140f1ff64cac3836d207fc83eb2391df837ab57dc5c6",
+        "sha1": "11a8ebe00818a00b319e0bf41ca672e9321d9d8a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Nv2fQJo5/versions/OJEjSBv2/replaymod-1.8.9-2.6.20.jar"
+      ],
+      "fileSize": 16074300
+    },
+    {
+      "path": "mods/PolyPatcher-1.8.9-forge-1.10.2.jar",
+      "hashes": {
+        "sha512": "ba8c651d4036ce181a436209308722e1cce587a6c34b058f03d19381e9beb0c238eabaea818057aa219419403c2cd37f0c97212dacfacbf837f4e495354d9478",
+        "sha1": "295ae3f562b66d95560a6f653d638c0b945fd21b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YknNc5nN/versions/qMIi00a0/PolyPatcher-1.8.9-forge-1.10.2.jar"
+      ],
+      "fileSize": 27195513
+    },
+    {
+      "path": "mods/BedWar-0.1.7.Pre.1.jar",
+      "hashes": {
+        "sha512": "2369217aa762bd1af0ebbcf4a52c0904912a7a9de5ec9b804345fd0ad397507519db0dd2280ae2ac1ee156644adbe5c9dcfcfdf3ab8cf3abf3cface2fd618d55",
+        "sha1": "13f69ef8fc7efa10e0210bcd6867dcf8cfb02c41"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Al95W2SE/versions/2R3ft4oU/BedWar-0.1.7.Pre.1.jar"
+      ],
+      "fileSize": 9256660
     }
   ],
   "dependencies": {

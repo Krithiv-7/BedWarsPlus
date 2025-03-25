@@ -8,7 +8,7 @@ guiScale:2
 particles:1
 bobView:true
 anaglyph3d:false
-maxFps:120
+maxFps:260
 fboEnable:true
 difficulty:3
 fancyGraphics:false
@@ -24,7 +24,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
+fullscreen:true
 enableVsync:false
 useVbo:false
 hideServerAddress:false
@@ -38,7 +38,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-showInventoryAchievementHint:true
+showInventoryAchievementHint:false
 mipmapLevels:4
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
@@ -96,7 +96,7 @@ key_keybind.name.SCREENSHOT_MANAGER:23
 key_Cosmetic Visibility Toggle:0
 key_Chat Peek:0
 key_Invite Friends:0
-key_keybind.name.EMOTE_WHEEL:19
+key_keybind.name.EMOTE_WHEEL:0
 key_keybind.name.EMOTE_SLOT_1:0
 key_keybind.name.EMOTE_SLOT_2:0
 key_keybind.name.EMOTE_SLOT_3:0
@@ -106,29 +106,31 @@ key_keybind.name.EMOTE_SLOT_6:0
 key_keybind.name.EMOTE_SLOT_7:0
 key_keybind.name.EMOTE_SLOT_8:0
 key_Zoom:46
-key_replaymod.input.playeroverview:36
-key_replaymod.input.lighting:48
+key_replaymod.input.playeroverview:0
+key_replaymod.input.lighting:0
 key_replaymod.input.quickmode:0
 key_replaymod.input.settings:0
-key_replaymod.input.marker:50
-key_replaymod.input.thumbnail:49
-key_replaymod.input.playpause:25
-key_replaymod.input.rollclockwise:38
+key_replaymod.input.marker:0
+key_replaymod.input.thumbnail:0
+key_replaymod.input.playpause:0
+key_replaymod.input.rollclockwise:0
 key_replaymod.input.rollcounterclockwise:0
-key_replaymod.input.resettilt:37
-key_replaymod.input.pathpreview:35
-key_replaymod.input.keyframerepository:44
+key_replaymod.input.resettilt:0
+key_replaymod.input.pathpreview:0
+key_replaymod.input.keyframerepository:0
 key_replaymod.input.clearkeyframes:0
-key_replaymod.input.synctimeline:47
+key_replaymod.input.synctimeline:0
 key_replaymod.input.positionkeyframe:0
 key_replaymod.input.positiononlykeyframe:0
-key_replaymod.input.timekeyframe:24
+key_replaymod.input.timekeyframe:0
 key_replaymod.input.bothkeyframes:0
 key_Screenshot Chat:0
+key_FpsReducer.key.guiOpen:207
 key_Drop Stack Modifier:0
 key_Hide Screen:59
 key_Custom F3:61
 key_Clear Vanilla Shaders:62
+key_key.entityculling.toggle:-1
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0

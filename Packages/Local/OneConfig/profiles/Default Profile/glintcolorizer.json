@@ -1,0 +1,15 @@
+{
+  "color": {
+    "hsba": [
+      267,
+      68,
+      80,
+      255
+    ],
+    "dataBit": -1
+  },
+  "potionGlint": false,
+  "potionGlintType": 0,
+  "enabled": true,
+  "canToggle": true
+}

@@ -2,7 +2,7 @@
   "agajsjg": false,
   "forceDisableFastRender": true,
   "blurMode": 1,
-  "strength": 3,
-  "enabled": true,
+  "strength": 5,
+  "enabled": false,
   "canToggle": true
 }

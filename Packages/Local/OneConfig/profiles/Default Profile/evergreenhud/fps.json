@@ -24,7 +24,7 @@
       "dataBit": -1
     },
     "textType": 0,
-    "background": false,
+    "background": true,
     "rounded": false,
     "border": false,
     "bgColor": {
@@ -55,9 +55,9 @@
     "locked": false,
     "ignoreCaching": false,
     "position": {
-      "anchor": "2",
-      "x": -75.0,
-      "y": 0.0
+      "anchor": "0",
+      "x": 60.0,
+      "y": 50.0
     },
     "scale": 1.0,
     "positionAlignment": 0,
@@ -194,6 +194,6 @@
     "showInDebug": false,
     "showInGuis": true
   },
-  "enabled": true,
+  "enabled": false,
   "canToggle": true
 }

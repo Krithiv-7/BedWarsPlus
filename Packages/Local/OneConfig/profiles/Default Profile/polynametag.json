@@ -1,0 +1,19 @@
+{
+  "heightOffset": 0.009765625,
+  "scale": 1.0,
+  "textType": 0,
+  "info1": 0,
+  "showOwnNametag": true,
+  "background": true,
+  "backgroundColor": {
+    "hsba": [
+      0,
+      0,
+      0,
+      63
+    ],
+    "dataBit": -1
+  },
+  "enabled": true,
+  "canToggle": true
+}

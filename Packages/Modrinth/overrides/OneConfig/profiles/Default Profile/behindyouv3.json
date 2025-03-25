@@ -1,13 +1,13 @@
 {
   "frontKeybind": {
     "keyBinds": [
-      0
+      44
     ]
   },
   "frontKeybindMode": false,
   "backKeybind": {
     "keyBinds": [
-      45
+      47
     ]
   },
   "backKeybindMode": false,

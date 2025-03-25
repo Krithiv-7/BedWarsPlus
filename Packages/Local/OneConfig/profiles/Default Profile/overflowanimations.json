@@ -32,7 +32,7 @@
   "modernPotColors": true,
   "enchantmentGlintNew": true,
   "rodBowGuiFix": true,
-  "modernMovement": true,
+  "modernMovement": false,
   "modernBobbing": true,
   "modernDropSwing": true,
   "headYawFix": true,

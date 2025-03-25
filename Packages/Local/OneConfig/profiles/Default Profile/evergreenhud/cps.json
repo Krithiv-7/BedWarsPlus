@@ -50,7 +50,7 @@
       ],
       "dataBit": -1
     },
-    "cornerRadius": 4.9609375,
+    "cornerRadius": 4.0234375,
     "borderSize": 2.0,
     "defaultPaddingX": 5.0,
     "paddingX": 5.0,
@@ -60,11 +60,11 @@
     "locked": false,
     "ignoreCaching": false,
     "position": {
-      "anchor": "0",
-      "x": 17.350004,
-      "y": 98.899994
+      "anchor": "7",
+      "x": 125.0,
+      "y": -3.0
     },
-    "scale": 0.9,
+    "scale": 1.0,
     "positionAlignment": 0,
     "showInChat": true,
     "showInDebug": false,

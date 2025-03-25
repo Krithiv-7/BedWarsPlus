@@ -1,0 +1,249 @@
+{
+  "guiScaling": false,
+  "a": "a",
+  "visibleFirstperson": true,
+  "visibleThirdperson": true,
+  "visibleDebug": false,
+  "visibleSpectator": true,
+  "crossEnabled": true,
+  "b": "b",
+  "crossWidth": 12,
+  "crossHeight": 12,
+  "crossGap": 4,
+  "crossThickness": 2,
+  "crossRounding": 1,
+  "crossRotation": 45,
+  "crossDynamicBow": true,
+  "crossDynamicBowMultiplier": 4,
+  "crossTopLine": true,
+  "crossBottomLine": true,
+  "crossLeftLine": true,
+  "crossRightLine": true,
+  "crossColor": {
+    "hsba": [
+      306,
+      100,
+      100,
+      255
+    ],
+    "dataBit": 10000
+  },
+  "crossEnablePlayerColor": false,
+  "crossPlayerColor": {
+    "hsba": [
+      240,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "crossEnableHostileColor": false,
+  "crossHostileColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "crossEnableFriendlyColor": false,
+  "crossFriendlyColor": {
+    "hsba": [
+      120,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "squareEnabled": false,
+  "c": "c",
+  "squareWidth": 12,
+  "squareHeight": 12,
+  "squareGap": 0,
+  "squareThickness": 2,
+  "squareRounding": 1,
+  "squareRotation": 45,
+  "squareDynamicBow": true,
+  "squareDynamicBowMultiplier": 4,
+  "squareTopLine": true,
+  "squareBottomLine": true,
+  "squareLeftLine": true,
+  "squareRightLine": true,
+  "squareColor": {
+    "hsba": [
+      221,
+      100,
+      100,
+      255
+    ],
+    "dataBit": 10000
+  },
+  "squareEnablePlayerColor": false,
+  "squarePlayerColor": {
+    "hsba": [
+      240,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "squareEnableHostileColor": false,
+  "squareHostileColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "squareEnableFriendlyColor": false,
+  "squareFriendlyColor": {
+    "hsba": [
+      120,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "circleEnabled": false,
+  "d": "d",
+  "circleXRadius": 12,
+  "circleYRadius": 12,
+  "circleThickness": 2,
+  "circleRotation": 45,
+  "circleDynamicBow": true,
+  "circleDynamicBowMultiplier": 4,
+  "circleColor": {
+    "hsba": [
+      221,
+      100,
+      100,
+      255
+    ],
+    "dataBit": 10000
+  },
+  "circleEnablePlayerColor": false,
+  "circlePlayerColor": {
+    "hsba": [
+      240,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "circleEnableHostileColor": false,
+  "circleHostileColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "circleEnableFriendlyColor": false,
+  "circleFriendlyColor": {
+    "hsba": [
+      120,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "outlineEnabled": true,
+  "e": "e",
+  "outlineWidth": 1,
+  "outlineColor": {
+    "hsba": [
+      306,
+      100,
+      100,
+      255
+    ],
+    "dataBit": 10000
+  },
+  "outlineEnablePlayerColor": false,
+  "outlinePlayerColor": {
+    "hsba": [
+      240,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "outlineEnableHostileColor": false,
+  "outlineHostileColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "outlineEnableFriendlyColor": false,
+  "outlineFriendlyColor": {
+    "hsba": [
+      120,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "dotEnabled": false,
+  "f": "f",
+  "dotType": 1,
+  "dotSize": 3,
+  "dotRotation": 45,
+  "dotColor": {
+    "hsba": [
+      221,
+      100,
+      100,
+      255
+    ],
+    "dataBit": 10000
+  },
+  "dotEnablePlayerColor": false,
+  "dotPlayerColor": {
+    "hsba": [
+      240,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "dotEnableHostileColor": false,
+  "dotHostileColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "dotEnableFriendlyColor": false,
+  "dotFriendlyColor": {
+    "hsba": [
+      120,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "enabled": true,
+  "canToggle": true
+}

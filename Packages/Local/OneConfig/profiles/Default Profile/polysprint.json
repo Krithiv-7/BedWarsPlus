@@ -2,7 +2,7 @@
   "toggleSprint": true,
   "toggleSneak": false,
   "disableWTapSprint": true,
-  "toggleSprintState": false,
+  "toggleSprintState": true,
   "toggleSneakState": false,
   "keybindToggleSprint": false,
   "keybindToggleSprintKey": {
@@ -42,7 +42,7 @@
       "dataBit": -1
     },
     "textType": 0,
-    "background": true,
+    "background": false,
     "rounded": false,
     "border": false,
     "bgColor": {
@@ -74,8 +74,8 @@
     "ignoreCaching": false,
     "position": {
       "anchor": "6",
-      "x": 0.0,
-      "y": -19.0
+      "x": 2.5,
+      "y": -3.0
     },
     "scale": 1.0,
     "positionAlignment": 0,

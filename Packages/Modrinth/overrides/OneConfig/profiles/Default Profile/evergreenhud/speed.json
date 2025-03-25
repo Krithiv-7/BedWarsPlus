@@ -3,10 +3,10 @@
     "useX": true,
     "useY": true,
     "useZ": true,
-    "speedUnit": 1,
+    "speedUnit": 0,
     "accuracy": 2,
     "trailingZeros": true,
-    "suffix": false,
+    "suffix": true,
     "brackets": false,
     "bracketsColor": {
       "hsba": [
@@ -17,7 +17,7 @@
       ],
       "dataBit": -1
     },
-    "title": "S",
+    "title": "Speed",
     "titleLocation": 0,
     "color": {
       "hsba": [
@@ -29,7 +29,7 @@
       "dataBit": -1
     },
     "textType": 0,
-    "background": false,
+    "background": true,
     "rounded": false,
     "border": false,
     "bgColor": {
@@ -60,9 +60,9 @@
     "locked": false,
     "ignoreCaching": false,
     "position": {
-      "anchor": "7",
-      "x": -122.0,
-      "y": 0.0
+      "anchor": "0",
+      "x": 0.0,
+      "y": 110.0
     },
     "scale": 1.0,
     "positionAlignment": 0,
@@ -70,6 +70,6 @@
     "showInDebug": false,
     "showInGuis": true
   },
-  "enabled": true,
+  "enabled": false,
   "canToggle": true
 }

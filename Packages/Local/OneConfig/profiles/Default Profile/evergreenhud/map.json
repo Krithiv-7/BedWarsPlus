@@ -12,7 +12,7 @@
       "dataBit": -1
     },
     "title": "Map",
-    "titleLocation": 0,
+    "titleLocation": 1,
     "color": {
       "hsba": [
         0,
@@ -44,7 +44,7 @@
       ],
       "dataBit": -1
     },
-    "cornerRadius": 5.0,
+    "cornerRadius": 4.0039062,
     "borderSize": 2.0,
     "defaultPaddingX": 5.0,
     "paddingX": 5.0,
@@ -55,8 +55,8 @@
     "ignoreCaching": false,
     "position": {
       "anchor": "8",
-      "x": 0.0,
-      "y": -18.0
+      "x": -1.0,
+      "y": -26.0
     },
     "scale": 1.0,
     "positionAlignment": 0,

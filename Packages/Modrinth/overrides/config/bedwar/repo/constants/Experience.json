@@ -1,0 +1,13 @@
+{
+  "easyLevelCount": 4,
+  "easyLevelExp": [
+    500,
+    1000,
+    2000,
+    3500
+  ],
+  "easyLevelExpTotal": 7000,
+  "expPerLevel": 5000,
+  "expPerPrestige": 487000,
+  "levelsPerPrestige": 100
+}

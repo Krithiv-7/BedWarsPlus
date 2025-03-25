@@ -42,18 +42,18 @@
     "fadingTime": 100,
     "shadow": false,
     "rounded": true,
-    "cornerRadius": 5,
+    "cornerRadius": 4,
     "enabled": true,
     "locked": false,
     "ignoreCaching": false,
     "position": {
       "anchor": "0",
-      "x": 16.000002,
-      "y": 29.0
+      "x": 0.0,
+      "y": 0.0
     },
-    "scale": 0.9,
+    "scale": 1.0,
     "positionAlignment": 0,
-    "showInChat": true,
+    "showInChat": false,
     "showInDebug": false,
     "showInGuis": true
   },

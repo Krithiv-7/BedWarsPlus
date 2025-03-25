@@ -1,0 +1,80 @@
+#AutoSwitch basic properties
+#Mon Mar 24 23:05:13 IST 2025
+DEBUG=false
+DEFAULT_ENABED=true
+TOGGLE_KEY=F10
+SWITCHBACK_BLOCKS=Always
+TREEFELLER_READY_AXE=**YOU READY YOUR AXE**
+TREEFELLER_TOO_TIRED=^You are too tired to use that ability again\\. \\(\\d+s\\)$
+SWITCHBACK_MOBS=Always
+TOOL_SELECTION_MODE=FAST STANDARD
+TREEFELLER_SKULL_SPLITTER=**Skull Splitter ACTIVATED**
+TREEFELLER_AXE_SPLINTER=YOUR AXE SPLINTERS INTO DOZENS OF PIECES\!
+TREEFELLER_WORNOFF=**Tree Feller has worn off**
+TREEFELLER_READY_OTHER=^\\*\\*YOU READY YOUR [A-Z]+\\*\\*$
+PULSE_KEY=V
+MOBS=Always
+BLOCKS=Always
+USE_IN_CREATIVE=true
+TREEFELLER_COMPAT=false
+TREEFELLER_LOWER_AXE=**YOU LOWER YOUR AXE**
+# TOGGLE_KEY
+#     This key toggles AutoSwitch.
+# PULSE_KEY
+#     This key temporarily toggles
+#     AutoSwitch while it's held down.
+# DEFAULT_ENABED
+#     This option determines whether to
+#     enable AutoSwitch on new worlds
+#     and on worlds AutoSwitch hasn't
+#     been used on before.
+# TOOL_SELECTION_MODE
+#     Fast Standard picks the best standard tool,
+#         where faster is better.
+#     Slow Standard picks the best standard tool,
+#         where slower is better.
+#     Fast Nonstandard picks the best tool,
+#         ignoring what's standard.
+# BLOCKS
+#     Use AutoSwitch when digging blocks.
+# MOBS
+#     Use AutoSwitch when attacking mobs.
+# SWITCHBACK_BLOCKS
+#     Switch back after digging a block.
+# SWITCHBACK_MOBS
+#     Switch back after attacking a mob.
+# DEBUG
+#     Log debug output to
+#     .minecraft/mods/AutoSwitch/DEBUG.txt
+# USE_IN_CREATIVE
+#     Use AutoSwitch when in creative mode
+# TREEFELLER_COMPAT
+#     Automatically detect when
+#     mcMMO Tree Feller is activated
+#     and temporarily set the tool selection
+#     mode to SLOW STANDARD.
+# TREEFELLER_READY_AXE
+#     When detecting tree feller,
+#     this says you've readied your axe.
+#     Some servers might have this in a different language.
+# TREEFELLER_READY_OTHER
+#     When detecting tree feller,
+#     this says another tool is ready.
+#     This is a regular expression.
+# TREEFELLER_LOWER_AXE
+#     When detecting tree feller,
+#     this says you've lowered your axe.
+# TREEFELLER_WORNOFF
+#     When detecting tree feller,
+#     this says treefeller has worn off.
+# TREEFELLER_AXE_SPLINTER
+#     When detecting tree feller,
+#     this says your axe has splintered.
+# TREEFELLER_TOO_TIRED
+#     When detecting tree feller,
+#     this says you are too tired.
+#     This is a regular expression.
+# TREEFELLER_SKULL_SPLITTER
+#     When detecting tree feller,
+#     this says you have used skull splitter
+#     instead of treefeller.

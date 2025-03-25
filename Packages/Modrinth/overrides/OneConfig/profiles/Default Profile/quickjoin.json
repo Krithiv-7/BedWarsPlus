@@ -1,0 +1,15 @@
+{
+  "BoldSwitch": false,
+  "ColorSwitch": true,
+  "EnableAlias": true,
+  "CommandAlias": "qj",
+  "EnableKeyBind": true,
+  "QJKeyBind": {
+    "keyBinds": [
+      45
+    ]
+  },
+  "DebugMode": false,
+  "enabled": true,
+  "canToggle": true
+}

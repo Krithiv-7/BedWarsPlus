@@ -1,6 +1,6 @@
 {
   "hud": {
-    "scoreboardPoints": 1,
+    "scoreboardPoints": false,
     "scorePointsColor": {
       "hsba": [
         0,
@@ -23,7 +23,7 @@
     },
     "textType": 0,
     "background": true,
-    "rounded": false,
+    "rounded": true,
     "border": false,
     "bgColor": {
       "hsba": [
@@ -43,15 +43,11 @@
       ],
       "dataBit": -1
     },
-    "cornerRadius": 0.0,
+    "cornerRadius": 4.0,
     "borderSize": 2.0,
-    "defaultPaddingX": 1.0,
     "paddingX": 1.0,
-    "defaultPaddingY": 0.0,
     "paddingY": 0.0,
     "enabled": true,
-    "locked": false,
-    "ignoreCaching": false,
     "position": {
       "anchor": "5",
       "x": -1.0,
@@ -60,7 +56,7 @@
     "scale": 1.0,
     "positionAlignment": 0,
     "showInChat": true,
-    "showInDebug": true,
+    "showInDebug": false,
     "showInGuis": true
   },
   "enabled": true,

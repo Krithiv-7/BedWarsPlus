@@ -1,0 +1,10 @@
+{
+  "animatedCapesError": false,
+  "loginAndDisableWarning": false,
+  "disable": false,
+  "arcmeticaInstanceWarning": false,
+  "customInstance": false,
+  "instanceLink": "",
+  "enabled": true,
+  "canToggle": true
+}
