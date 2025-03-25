@@ -23,7 +23,7 @@
   - [Quick Join](https://modrinth.com/mod/quickjoin) - Fast server joining and reconnection
 
 ### Changed
-- Updated mod organization structure in README.md
+- Updated mod organization structure in README/DESCRIPTION
 - Added new categories for better mod classification
 - Improved installation instructions to include required libraries
 - Added version numbering system:
