@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.2.0-r] - 2025-04-16
+
+- ✨ Updates
+  - **Essential Mod** updated from `v1.3.5.9` to `v1.3.5.12`.
+
+- ❌ Removals
+  - **Autoswitch Mod**  
+  - **TheBombzenAPI**  
+  **Reason:** Autoswitch is considered *bannable* on some servers. To ensure safe and fair gameplay across all supported servers, the Autoswitch mod and its dependency (TheBombzenAPI) have been removed.
+
+<details>
+  <summary>Want to use the Autoswitch Mod?</summary>
+  You can always roll back to `v1.1.0-b` if you still wish to use the Autoswitch mod.  
+  However, this is **not advisable** as it may lead to bans on certain servers.
+</details>
+
 
 ## [v1.1.0-b] - 2025-03-25
 ### Added
