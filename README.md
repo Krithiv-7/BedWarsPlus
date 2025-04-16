@@ -37,8 +37,6 @@ For the best gameplay experience, we recommend using OptiFine alongside this mod
 ## Mod List
 This modpack includes the following BedWars-compatible mods:
 
-### Required Libraries
-1. [TheBombzenAPI](https://github.com/Traneptora/ThebombzenAPI) - Required library for AutoSwitch and other mods
 
 ### BedWars Specific
 1. [BedWar Mod](https://modrinth.com/mod/bedwar-mod) - Essential BedWars features and enhancements
@@ -62,14 +60,13 @@ This modpack includes the following BedWars-compatible mods:
 16. [MicroOptimizations](https://modrinth.com/mod/microoptimizations) - Implements small optimizations to improve game performance
 17. [Overflow Animations](https://modrinth.com/mod/animations) - Adds smooth animations to UI elements for a better visual experience
 18. [Phosphor (Legacy Forge)](https://modrinth.com/mod/phosphorlegacyforge) - Optimizes lighting engine performance to improve game performance
-19. [PolyBlur](https://modrinth.com/mod/polyblur) - Adds smooth transition effects and minimizes screen tearing
+19. [PolyBlur](https://modrinth.com/mod/polyblur) - Adds smooth transition effects and minimizes screen tearing (Currently Removed)
 20. [PolyPatcher](https://modrinth.com/mod/polypatcher) - Patches known bugs and improves overall game stability
 21. [PolySprint](https://modrinth.com/mod/polysprint) - Enhances sprint functionality for better control and performance
 22. [PolyTime](https://modrinth.com/mod/polytime) - Adds additional time-related features and enhancements
 23. [QuickJoin](https://modrinth.com/mod/quickjoin) - Fast server joining and reconnection
 24. [Replay Mod](https://modrinth.com/mod/replaymod) - Allows you to record, replay, and share your gameplay
 25. [Titanium](https://modrinth.com/mod/titaniumod) - Provides various performance improvements and optimizations
-26. [AutoSwitch](https://github.com/Traneptora/AutoSwitch) - Automatically switches to the best tool for breaking blocks
 
 ## Resource Pack List
 This modpack includes the following BedWars-compatible resource packs:
