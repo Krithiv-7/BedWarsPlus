@@ -1,5 +1,16 @@
 # Changelog
 
+## [v1.3.0-r] - 2025-06-16
+
+- ✨ Updates  
+  - **Essential Mod** updated from `v1.3.5.12` to `v1.3.8.1`.  
+  - **Poly Patcher** updated from `v1.10.2` to `v1.10.3`.  
+  - **QuickJoin** updated from `v2.7` to `v2.8`.
+
+- ❌ Removals  
+  - **AutoGG Reimagined**  
+  **Reason:** Removed to improve overall stability and performance.
+
 ## [v1.2.0-r] - 2025-04-16
 
 - ✨ Updates

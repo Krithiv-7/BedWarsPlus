@@ -6,7 +6,7 @@
   "GG2ndDelay": 1.0,
   "GGTriggers": "Reward Summary;1st Killer;2nd Killer;3rd Killer;Damage Dealt",
   "abc2": false,
-  "AntiGGSwitch": false,
+  "AntiGGSwitch": true,
   "NotifySwitch": true,
   "AntiGGTriggers": "gg;GG;Good Game;Gg;gG;GoOd GaMe;gOoD GaMe",
   "enabled": true,
