@@ -1,7 +1,7 @@
 <div align="center">
 
 # BedWars+
-[![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uuSYkzahBj)
+[![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.krithiv.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krithiv-7/BedWarsPlus)
 [![Personal Links](https://img.shields.io/badge/Personal-Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://links.krithiv.work)
 
@@ -82,7 +82,7 @@ This modpack includes the following BedWars-compatible resource packs:
 
 ## Community & Support
 Join our community for help, suggestions, and updates:
-- Discord: [MineVerse](https://discord.gg/uuSYkzahBj)
+- Discord: [𝕁𝕦𝕤𝕥𝕂𝕣𝕚𝕥𝕙](https://discord.krithiv.dev)
 - I'm Lonly Pls Join😊😊😊
 
 ## Credits
