@@ -1,5 +1,16 @@
 # Changelog
 
+## [v1.4.1-r] - 2025-08-10
+
+- ✨ Additions  
+  - **AutoGG Mod** — Automatically sends a “GG” message at the end of matches.
+
+- 🔄 Updates  
+  - Updated most of the core dependencies and mods to their latest versions.
+
+- 🩹 Patches  
+  - Applied compatibility changes to the latest mods for improved overall stability.
+
 ## [v1.3.0-r] - 2025-06-16
 
 - ✨ Updates  
