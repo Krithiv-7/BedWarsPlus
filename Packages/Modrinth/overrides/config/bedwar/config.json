@@ -13,8 +13,8 @@
       "enabled": true,
       "showTotal": true,
       "position": {
-        "x": -66,
-        "y": 101,
+        "x": -100,
+        "y": 50,
         "scale": 1.0,
         "centerX": false,
         "centerY": true
@@ -48,8 +48,8 @@
         16
       ],
       "position": {
-        "x": 0,
-        "y": 143,
+        "x": 1,
+        "y": 134,
         "scale": 1.0,
         "centerX": false,
         "centerY": true
@@ -58,8 +58,8 @@
     "trapQueue": {
       "enabled": true,
       "position": {
-        "x": 213,
-        "y": 4,
+        "x": 110,
+        "y": 20,
         "scale": 1.0,
         "centerX": false,
         "centerY": true
@@ -69,9 +69,9 @@
   "party": {
     "matchStats": {
       "enabled": true,
-      "actionType": 0,
       "statsDelay": 1250,
       "sendOnLoss": false,
+      "actionType": 0,
       "sendDelay": 250
     },
     "shortCommands": true,
@@ -82,8 +82,8 @@
       "enabled": true,
       "showSolo": true,
       "position": {
-        "x": 105,
-        "y": 0,
+        "x": -310,
+        "y": 10,
         "scale": 1.0,
         "centerX": false,
         "centerY": true
@@ -96,7 +96,7 @@
     "chatHighlight": true,
     "playerStats": {
       "statType": "OVERALL",
-      "partyJoin": false,
+      "partyJoin": true,
       "clickName": true
     },
     "swapLobbyCommand": true
@@ -133,7 +133,6 @@
   },
   "storage": {
     "players": {
-      "fa4c20f1-bc2c-4a65-929b-a81759494a6e": {},
       "d831881f-03e6-45c2-a517-a1f52cc93f0e": {}
     }
   }

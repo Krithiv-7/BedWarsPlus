@@ -132,7 +132,7 @@ key_Custom F3:61
 key_Clear Vanilla Shaders:62
 key_key.entityculling.toggle:-1
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
